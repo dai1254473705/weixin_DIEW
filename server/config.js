@@ -6,9 +6,9 @@
 module.exports = function(){
 	return {
 		//AppID(应用ID)
-		appid: '',
+		appid: 'wx3b94df1cd4a35e0e',
 		//AppSecret(应用密钥)
-		appsecret: '',
+		appsecret: '9c4480945253c18589f99ce5ee3dcd2e ',
 		//Token(令牌)
 		token: 'Tokenjs'
 	};
