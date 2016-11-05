@@ -11,7 +11,7 @@ var obj = {
 };
 $(function(){
 	
-	$.post("/wechat/jssdk",{
+	$.post("/wechat/DIEW",{
 		//需要签名的 url 地址
 		url : window.location.href.replace(/#.*/g,""),
 		apilist : [
