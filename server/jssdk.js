@@ -111,7 +111,7 @@ function jssdk(app){
 		}
 	}
 	
-	app.use("/wechat/jssdk",function(req,res){
+	app.use("/wechat/DIEW",function(req,res){
 		//获取请求的数据
 		var getdata = function() {
 			//get 形式数据

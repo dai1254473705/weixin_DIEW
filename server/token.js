@@ -10,7 +10,7 @@ function sha1(str){
   str = md5sum.digest("hex");
   return str;
 }
-//http://g82.jscook.cn//wechat/DIEW
+//http://g82.jscook.cn/wechat/DIEW
 function main(app) {
 	app.use('/wechat/DIEW', function(req, res, next){
 		// url 
